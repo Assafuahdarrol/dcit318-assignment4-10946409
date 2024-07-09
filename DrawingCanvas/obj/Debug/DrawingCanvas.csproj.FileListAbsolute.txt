@@ -1,0 +1,10 @@
+C:\Users\DELL\Documents\Darrol\DrawingCanvas\obj\Debug\DrawingCanvas.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Darrol\DrawingCanvas\obj\Debug\DrawingCanvas.Form1.resources
+C:\Users\DELL\Documents\Darrol\DrawingCanvas\obj\Debug\DrawingCanvas.Properties.Resources.resources
+C:\Users\DELL\Documents\Darrol\DrawingCanvas\obj\Debug\DrawingCanvas.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Darrol\DrawingCanvas\obj\Debug\DrawingCanvas.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Darrol\DrawingCanvas\bin\Debug\DrawingCanvas.exe.config
+C:\Users\DELL\Documents\Darrol\DrawingCanvas\bin\Debug\DrawingCanvas.exe
+C:\Users\DELL\Documents\Darrol\DrawingCanvas\bin\Debug\DrawingCanvas.pdb
+C:\Users\DELL\Documents\Darrol\DrawingCanvas\obj\Debug\DrawingCanvas.exe
+C:\Users\DELL\Documents\Darrol\DrawingCanvas\obj\Debug\DrawingCanvas.pdb
