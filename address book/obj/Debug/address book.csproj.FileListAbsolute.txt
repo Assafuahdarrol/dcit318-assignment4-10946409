@@ -1,0 +1,10 @@
+C:\Users\DELL\Documents\Darrol\address book\bin\Debug\address book.exe.config
+C:\Users\DELL\Documents\Darrol\address book\bin\Debug\address book.exe
+C:\Users\DELL\Documents\Darrol\address book\bin\Debug\address book.pdb
+C:\Users\DELL\Documents\Darrol\address book\obj\Debug\address book.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Darrol\address book\obj\Debug\address_book.Form1.resources
+C:\Users\DELL\Documents\Darrol\address book\obj\Debug\address_book.Properties.Resources.resources
+C:\Users\DELL\Documents\Darrol\address book\obj\Debug\address book.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Darrol\address book\obj\Debug\address book.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Darrol\address book\obj\Debug\address book.exe
+C:\Users\DELL\Documents\Darrol\address book\obj\Debug\address book.pdb
